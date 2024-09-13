@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/10srav/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/10srav/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/10srav/leetcode/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/10srav/leetcode/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/10srav/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
