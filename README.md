@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/10srav/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/10srav/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/10srav/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [2998-count-symmetric-integers](https://github.com/10srav/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/10srav/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/10srav/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/10srav/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/10srav/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/10srav/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/10srav/leetcode/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/10srav/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/10srav/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -70,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/10srav/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/10srav/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
