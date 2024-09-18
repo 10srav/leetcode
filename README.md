@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/10srav/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/10srav/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/10srav/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/10srav/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [2998-count-symmetric-integers](https://github.com/10srav/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/10srav/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/10srav/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/10srav/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
