@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/10srav/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/10srav/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/10srav/leetcode/tree/master/0412-fizz-buzz) |
 | [2998-count-symmetric-integers](https://github.com/10srav/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/10srav/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/10srav/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/10srav/leetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/10srav/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/10srav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/10srav/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Array
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/10srav/leetcode/tree/master/0412-fizz-buzz) |
 | [2551-apply-operations-to-an-array](https://github.com/10srav/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
