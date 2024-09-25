@@ -3,7 +3,8 @@ var pivotIndex = function(nums) {
         let leftSum = nums.slice(0,i).reduce((acc,val)=> acc+=val,0)
         let rightSum = nums.slice(i+1).reduce((acc,val)=> acc+=val,0)
         if(leftSum == rightSum){
-            return i
+            return i;
+
         }
     }
     return -1
