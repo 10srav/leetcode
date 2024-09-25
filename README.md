@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/10srav/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/10srav/leetcode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/10srav/leetcode/tree/master/0724-find-pivot-index) |
 | [2551-apply-operations-to-an-array](https://github.com/10srav/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/10srav/leetcode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/10srav/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
