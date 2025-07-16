@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/10srav/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/10srav/leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/10srav/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/10srav/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/10srav/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/10srav/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/10srav/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/10srav/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/10srav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/10srav/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/10srav/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
