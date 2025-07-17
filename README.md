@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/10srav/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/10srav/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/10srav/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/10srav/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/10srav/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/10srav/leetcode/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/10srav/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/10srav/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/10srav/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/10srav/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/10srav/leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/10srav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/10srav/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/10srav/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/10srav/leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/10srav/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/10srav/leetcode/tree/master/0278-first-bad-version) |
 ## Greedy
