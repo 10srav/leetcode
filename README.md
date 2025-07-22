@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/10srav/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/10srav/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/10srav/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/10srav/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/10srav/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/10srav/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/10srav/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/10srav/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/10srav/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/10srav/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/10srav/leetcode/tree/master/0724-find-pivot-index) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/10srav/leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/10srav/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
