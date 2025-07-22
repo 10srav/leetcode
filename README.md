@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/10srav/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/10srav/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/10srav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/10srav/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/10srav/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/10srav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/10srav/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/10srav/leetcode/tree/master/0792-binary-search) |
 | [2551-apply-operations-to-an-array](https://github.com/10srav/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/10srav/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/10srav/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/10srav/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/10srav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/10srav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/10srav/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/10srav/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/10srav/leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/10srav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/10srav/leetcode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/10srav/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/10srav/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/10srav/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/10srav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
